@@ -5,5 +5,3 @@
 
 ![Jsanahuja's github stats](https://github-readme-stats.vercel.app/api?username=jsanahuja)
 
-### Projects
-- 🎥 [Video conference application](http://vicon.sowecms.com/) 💻
